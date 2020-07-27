@@ -16,13 +16,16 @@ h2 {
 h3 {
   color: #e3dfc8;
 }
-h4 {
+.table-stats {
   color: #e3dfc8;
 }
-p {
-  color: #e3dfc8;
-}
-
-.position {
+table {
+  table-layout: fixed;
+  width: 100%;
+  margin-top: 50px;
   text-align: center;
+
+}
+.headings {
+  margin-bottom: 50px;
 }
