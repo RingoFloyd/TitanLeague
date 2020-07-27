@@ -1,0 +1,28 @@
+body {
+  background-color: #38003C;
+  margin: 5% 20% 5% 20%;
+}
+
+h1 {
+  text-align: center;
+  color: #e3dfc8;
+}
+
+h2 {
+  text-align: center;
+  color: #e3dfc8;
+}
+
+h3 {
+  color: #e3dfc8;
+}
+h4 {
+  color: #e3dfc8;
+}
+p {
+  color: #e3dfc8;
+}
+
+.position {
+  text-align: center;
+}
