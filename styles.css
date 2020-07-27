@@ -2,20 +2,24 @@ body {
   background-color: #38003C;
   margin: 5% 20% 5% 20%;
 }
-
+.top-container{
+  position: relative;
+}
 h1 {
   text-align: center;
   color: #e3dfc8;
+  vertical-align: top;
 }
 
 h2 {
   text-align: center;
   color: #e3dfc8;
 }
-
-h3 {
-  color: #e3dfc8;
+.Premier-league-logo {
+  width: 25%;
+  position: absolute;
 }
+
 .table-stats {
   color: #e3dfc8;
 }
